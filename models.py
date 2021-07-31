@@ -1,3 +1,9 @@
+#This file was from the github code of SWALP paper.
+#https://github.com/stevenygd/SWALP/blob/master/models/quantizer.py
+
+
+
+
 from __future__ import print_function
 import torch
 import torch.nn as nn
